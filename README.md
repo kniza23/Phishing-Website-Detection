@@ -89,3 +89,9 @@ phishing-detection-ml/
 ├── results/
 │
 └── README.md
+
+## Model Performance Visualization
+
+The following chart compares the accuracy of the five evaluated Machine Learning models.
+
+![Model Comparison](results/model_comparison.png)
