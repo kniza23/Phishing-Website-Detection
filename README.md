@@ -54,6 +54,15 @@ Additional experiments were conducted with linear and RBF SVM configurations.
 
 Random Forest achieved the highest accuracy of 98.55%.
 
+### Random Forest Performance
+
+| Metric    | Score  |
+|-----------|--------|
+| Accuracy  | 98.55% |
+| Precision | 98.60% |
+| Recall    | 98.50% |
+| F1-score  | 98.55% |
+
 ## Evaluation Metrics
 
 - Accuracy
@@ -90,9 +99,14 @@ phishing-detection-ml/
 │   ├── DecisionTreeClassifier.ipynb
 │   ├── SVM.ipynb
 │   ├── SVM_Linear.ipynb
-│   └── RandomForestClassifier.ipynb
+│   ├── RandomForestClassifier.ipynb
+│   └── README.md
 │
 ├── results/
+│   └── model_comparison.png
 │
-└── README.md
+├── .gitignore
+├── README.md
+└── requirements.txt
+
 
