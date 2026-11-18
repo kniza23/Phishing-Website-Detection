@@ -12,6 +12,7 @@ legitimate websites from phishing websites.
 ## Dataset
 
 - Dataset: [Phishing_Legitimate_full.csv](Phishing_Legitimate_full.csv)
+- Cleaned dataset: [phishing_clean.csv](phishing_clean.csv)
 - Total observations: 10,000
 - Number of features: 50
 - Target variable: CLASS_LABEL
