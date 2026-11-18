@@ -71,6 +71,12 @@ Random Forest achieved the highest accuracy of 98.55%.
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+  
+## Model Performance Visualization
+
+The following chart compares the accuracy of the five evaluated Machine Learning models.
+
+![Model Comparison](results/model_comparison.png)
 
 ## Repository Structure
 
@@ -90,8 +96,3 @@ phishing-detection-ml/
 │
 └── README.md
 
-## Model Performance Visualization
-
-The following chart compares the accuracy of the five evaluated Machine Learning models.
-
-![Model Comparison](results/model_comparison.png)
